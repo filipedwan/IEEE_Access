@@ -1,3 +1,4 @@
 # Database Description
 
-This database is associated to...
+For more information about the database please access:
+https://ieeexplore.ieee.org/abstract/document/9517104/
